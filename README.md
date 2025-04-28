@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/mseep-audited.png)](https://mseep.ai/app/codyde-mcp-sentry-ts)
+
 # Sentry MCP Server
 
 A Model Context Protocol (MCP) server for interacting with Sentry. This MCP server provides tools to interact with the Sentry API, allowing AI assistants to retrieve and analyze error data, manage projects, and monitor application performance.
